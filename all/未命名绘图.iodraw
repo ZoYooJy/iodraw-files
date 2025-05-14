@@ -77,7 +77,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="SMtfEUoC8xLqDVqiEmmj" name="第 2 页">
-    <mxGraphModel dx="1654" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1125" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -90,7 +90,7 @@
         <mxCell id="ZTOPfn-hp55z_tQGcxmE-4" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;加权平均滤波&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="520" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ZTOPfn-hp55z_tQGcxmE-5" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;加权平均滤波&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZTOPfn-hp55z_tQGcxmE-5" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;永久收敛处理&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="520" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZTOPfn-hp55z_tQGcxmE-6" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;加权平均滤波&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -111,14 +111,11 @@
         <mxCell id="ZTOPfn-hp55z_tQGcxmE-11" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;收敛状态处理&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="520" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ZTOPfn-hp55z_tQGcxmE-12" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;加权平均滤波&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZTOPfn-hp55z_tQGcxmE-13" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;跳变过渡&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="600" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ZTOPfn-hp55z_tQGcxmE-13" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;加权平均滤波&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZTOPfn-hp55z_tQGcxmE-14" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;返回处理结果&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="680" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="ZTOPfn-hp55z_tQGcxmE-14" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;加权平均滤波&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="760" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
