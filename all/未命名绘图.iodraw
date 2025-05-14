@@ -181,7 +181,7 @@
         <mxCell id="ZTOPfn-hp55z_tQGcxmE-31" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;STATE_INIT&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#e4e2e2;" vertex="1" parent="1">
           <mxGeometry x="70" y="490" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ZTOPfn-hp55z_tQGcxmE-36" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;STATE_INIT&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#e4e2e2;" vertex="1" parent="1">
+        <mxCell id="ZTOPfn-hp55z_tQGcxmE-36" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;STATE_WEIGHTAVG&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#e4e2e2;" vertex="1" parent="1">
           <mxGeometry x="350" y="490" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ZTOPfn-hp55z_tQGcxmE-37" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;STATE_INIT&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#e4e2e2;" vertex="1" parent="1">
