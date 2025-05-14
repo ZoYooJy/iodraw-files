@@ -81,6 +81,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ZTOPfn-hp55z_tQGcxmE-40" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="414" width="1010" height="166" as="geometry" />
+        </mxCell>
         <mxCell id="ZTOPfn-hp55z_tQGcxmE-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZTOPfn-hp55z_tQGcxmE-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="480" y="620" as="targetPoint" />
@@ -192,9 +195,6 @@
         </mxCell>
         <mxCell id="ZTOPfn-hp55z_tQGcxmE-39" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 7px;&quot;&gt;STATE_DIVERGED&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#e4e2e2;" vertex="1" parent="1">
           <mxGeometry x="910" y="490" width="100" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="ZTOPfn-hp55z_tQGcxmE-40" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="414" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
